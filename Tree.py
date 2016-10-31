@@ -4,7 +4,7 @@
 #	https://github.com/darkAco/noagi16
 #
 
-# File Description:
+# File Description
 #	Contains the class 'Tree', which itself contains the class
 #	'Node'. These classes are used to create a "Parse"-Tree.
 #
